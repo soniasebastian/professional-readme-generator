@@ -1,6 +1,5 @@
 # professional-readme-generator
 This application is to create README generator using Node.js with the inquirer package. This allows a user to go through a series of terminal prompts and the program creates a markdown file using the answers collected from the user.
-```
 
 ## Table of Contents
 - [About this Project](#about-this-project)
@@ -9,22 +8,22 @@ This application is to create README generator using Node.js with the inquirer p
 - [Criteria](#Criteria)
 - [Walkthrough Video](#Walkthrough-video)
 - [Technologies](#Technologies)
-- [References] (#References)
+- [References](#References)
 
-<br>
+
+```
 ## About this Project
 * When creating an open source project on GitHub, it’s important to have a high-quality README for the application 
 * This project aims to create a README file by using a command-line application to generate one. 
 * This application allows the project creator to devote more time to working on the project.
+```
 
-<br>
 
 ## Links to the Project
 * Check out the Github Repository [https://github.com/soniasebastian/professional-readme-generator]
 * Check out the deployed URL [ https://soniasebastian.github.io/professional-readme-generator/]
 * Check out the walkthrough video [https://drive.google.com/file/d/1VByMoidsa8gX5uyTqRitl7NslZ6xHyGJ/view]
 
-<br>
 
 ## User Story
 ```
@@ -53,19 +52,19 @@ SO THAT I can quickly create a professional README for a new project
 * THEN I am taken to the corresponding section of the README
 ```
 
-<br />
+<br>
 
 ## Walkthrough Video
 The following link shows a walkthrough video that demonstrates the functionality of the README generator
-[![walkthrough video](https://drive.google.com/file/d/1VByMoidsa8gX5uyTqRitl7NslZ6xHyGJ/view)
-
-<br />
-
-## Technologies
-- Node.js
-- Javascript
+* [Click here for walkthrough video](https://drive.google.com/file/d/1VByMoidsa8gX5uyTqRitl7NslZ6xHyGJ/view)
 
 <br>
+
+## Technologies
+```
+- Node.js
+- Javascript
+```
 
 
 ## References
