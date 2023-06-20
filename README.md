@@ -7,16 +7,16 @@ This application is to create README generator using Node.js with the inquirer p
 - [User Story](#User-Story)
 - [Criteria](#Criteria)
 - [Walkthrough Video](#Walkthrough-video)
+- [Screenshots](#Screenshots)
 - [Technologies](#Technologies)
 - [References](#References)
 
 
-```
 ## About this Project
 * When creating an open source project on GitHub, it’s important to have a high-quality README for the application 
 * This project aims to create a README file by using a command-line application to generate one. 
 * This application allows the project creator to devote more time to working on the project.
-```
+
 
 
 ## Links to the Project
@@ -59,6 +59,13 @@ The following link shows a walkthrough video that demonstrates the functionality
 * [Click here for walkthrough video](https://drive.google.com/file/d/1VByMoidsa8gX5uyTqRitl7NslZ6xHyGJ/view)
 
 <br>
+
+## Screenshots
+* Preview of generated Readme file
+  ![Screenshot1](https://github.com/soniasebastian/professional-readme-generator/assets/130253087/e9db1473-0a4b-497f-b1f6-e50807d5ee47)
+* Terminal prompts
+  ![screenshot2](https://github.com/soniasebastian/professional-readme-generator/assets/130253087/b38c4e09-35bc-48e8-8b77-4a786d714261)
+
 
 ## Technologies
 ```
